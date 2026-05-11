@@ -1,4 +1,4 @@
-    Healthcare Exploratory Data Analysis (EDA)
+    Healthcare Exploratory Data Analysis (EDA). 
 
 Exploring patient data to identify patterns in hospital readmissions and improve healthcare outcomes.
 
