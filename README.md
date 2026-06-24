@@ -17,15 +17,15 @@ Tools I use
 
 Featured work
 
-- [Customer Churn Prediction]: exploring the patterns behind customer attrition and what early indicators look like
-- [Sales Performance Dashboard]: an interactive Tableau dashboard for tracking sales trends and regional performance
-- [HR Attrition Analysis]: digging into workforce data to understand why employees leave and what predicts it
-- [Healthcare EDA]: exploratory data analysis on healthcare datasets, surfacing trends in patient data
+- Customer Churn Prediction: exploring the patterns behind customer attrition and what early indicators look like. 
+- Sales Performance Dashboard: an interactive Tableau dashboard for tracking sales trends and regional performance. 
+- HR Attrition Analysis: digging into workforce data to understand why employees leave and what predicts it. 
+- Healthcare EDA: exploratory data analysis on healthcare datasets, surfacing trends in patient data. 
 
-Why focus here
+Why i focus here
 
 Good data work shouldn't be limited to where the most polished public datasets happen to come from. I'm especially interested in applying solid analytics practice to African business and public sector contexts, where the right dashboard or the right model can make an outsized difference.
- Let's connect
+ Let's connect, 
 
 I'm always open to conversations about data, analytics, or interesting problems worth solving.
 
