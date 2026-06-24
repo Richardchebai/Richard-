@@ -6,10 +6,10 @@ I help organizations make sense of their data, from cleaning messy spreadsheets 
 
  What I do;
 
-- I build interactive dashboards in Tableau and Power BI that turn raw numbers into decisions teams can act on
-- I write Python and SQL to clean, transform, and model data at scale
-- Explores patterns in customer behavior, sales performance, and operational data to find what's actually driving outcomes
-- Work with Azure for cloud based data workflows
+- I build interactive dashboards in Tableau and Power BI that turn raw numbers into decisions teams can act on. 
+- I write Python and SQL to clean, transform, and model data at scale. 
+- Explores patterns in customer behavior, sales performance, and operational data to find what's actually driving outcomes. 
+- Work with Azure for cloud based data workflows. 
 
 Tools I use
 
